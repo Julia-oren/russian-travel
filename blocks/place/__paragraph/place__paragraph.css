@@ -1,4 +1,4 @@
-.places__paragraph {
+.place__paragraph {
   padding: 0;
   margin: 0;
   font-style: normal;
@@ -7,39 +7,39 @@
   line-height: 1.61;
 }
 
-.places__paragraph:nth-of-type(2n) {
+.place__paragraph:nth-of-type(2n) {
   margin-top: 26px;
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
-  .places__paragraph {
+  .place__paragraph {
     font-size: 1rem;
     line-height: 1.625;
   }
 
-  .places__paragraph:nth-of-type(2n) {
+  .place__paragraph:nth-of-type(2n) {
     margin-top: 25px;
   }
 }
 
 @media screen and (max-width: 767px) and (min-width: 321px) {
-  .places__paragraph {
+  .place__paragraph {
     font-size: 1rem;
     line-height: 1.625;
     }
 
-    .places__paragraph:nth-of-type(2n) {
+    .place__paragraph:nth-of-type(2n) {
       margin-top: 25px;
     }
 }
 
 @media screen and (max-width: 320px) {
-  .places__paragraph {
+  .place__paragraph {
     font-size: 1rem;
     line-height: 1.625;
   }
 
-  .places__paragraph:nth-of-type(2n) {
+  .place__paragraph:nth-of-type(2n) {
     margin-top: 25px;
   }
 }

@@ -1,4 +1,4 @@
-.places__text {
+.place__text {
   flex-direction: column;
   justify-content: flex-start;
   padding: 0;
@@ -6,7 +6,7 @@
  }
 
 @media screen and (max-width: 320px) {
-  .places__text  {
+  .place__text  {
     padding: 0 calc(16/320*100%);
   }
 }

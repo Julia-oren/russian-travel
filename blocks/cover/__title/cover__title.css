@@ -10,7 +10,9 @@
   margin-bottom: 32px;
   position: relative;
   color: #FFFFFF;
+  z-index: 2;
 }
+
 
 @media screen and (max-width: 767px) and (min-width: 321px)  {
   .cover__title{

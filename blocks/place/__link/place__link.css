@@ -1,4 +1,4 @@
-.places__link {
+.place__link {
   margin: 0;
   padding: 0;
   font-style: normal;
@@ -6,9 +6,10 @@
   font-size: 1.125rem;
   line-height: 1.22;
   text-decoration-line: underline;
+  align-self: flex-start;
   color: #FFFFFF;
 }
 
-.places__link:hover {
+.place__link:hover {
   opacity: .8;
 }
