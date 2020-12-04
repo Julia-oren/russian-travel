@@ -1,0 +1,9 @@
+.cover__link {
+  border: none;
+  list-style: none;
+  text-decoration-line: none;
+}
+
+.cover__link:hover {
+  opacity: .8;
+}

@@ -1,0 +1,9 @@
+.intro__list-zone {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 690px;
+  padding: 0;
+  list-style: none;
+}
