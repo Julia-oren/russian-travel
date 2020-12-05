@@ -6,6 +6,8 @@
   line-height: 1.125;
   color: #FFFFFF;
   display: block;
+  opacity: 1;
+  transition: opacity .5s linear .2s;
 }
 
 .footer__link:hover {

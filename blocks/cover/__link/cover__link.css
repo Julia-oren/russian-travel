@@ -2,6 +2,8 @@
   border: none;
   list-style: none;
   text-decoration-line: none;
+  opacity: 1;
+  transition: opacity .5s linear .2s;
 }
 
 .cover__link:hover {

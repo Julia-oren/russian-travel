@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 767px) and (min-width: 321px) {
+@media screen and (max-width: 767.9px) and (min-width: 361px) {
   .place__title {
     max-width: 340px;
     font-size: 12.35vw;
@@ -30,7 +30,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
   .place__title {
     max-width: 320px;
     font-size: 2rem;

@@ -8,6 +8,8 @@
   text-decoration-line: underline;
   align-self: flex-start;
   color: #FFFFFF;
+  opacity: 1;
+  transition: opacity .5s linear .2s;
 }
 
 .place__link:hover {
