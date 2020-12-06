@@ -17,21 +17,21 @@
   }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 1023px) and (min-width: 321px) {
   .intro {
     padding-bottom: calc(88/768*100%);
     padding-left: calc(24/768*100%);
     padding-right: calc(24/768*100%);
   }
 }
-
+/*
 @media screen and (max-width: 767px) and (min-width: 321px)  {
   .intro {
     padding-bottom: calc(88/768*100%);
     padding-left: calc(24/768*100%);
     padding-right: calc(24/768*100%);
   }
-}
+} */
 
 @media screen and (max-width: 320px) {
   .intro {

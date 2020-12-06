@@ -12,13 +12,13 @@
   }
 }
 
-@media screen and (max-width: 1023px) and (min-width: 768px) {
+@media screen and (max-width: 1023px) and (min-width: 361px) {
   .places {
     padding: calc(88/768*100%) calc(24/768*100%) calc(90/768*100%);
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width:360px) {
   .places {
     padding: calc(64/320*100%) 0 calc(66/320*100%);
   }
