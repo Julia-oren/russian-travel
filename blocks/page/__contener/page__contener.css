@@ -13,7 +13,7 @@
 
 @media screen and (min-width: 1280px) {
   .page__contener  {
-    min-width: 1280px;
+    max-width: 1280px;
   }
 }
 
